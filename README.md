@@ -12,3 +12,5 @@ Built with **Streamlit** for a simple and interactive interface.
 - Select from multiple Persian voices.
 - Adjust speech speed: Normal, Fast, or Slow.
 - Play audio directly in the web app.
+
+owner = Yahyazadeh
